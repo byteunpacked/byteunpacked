@@ -1,16 +1,23 @@
-## Hi there 👋
+# Byte Unpacked
 
-<!--
-**byteunpacked/byteunpacked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't just learn the code.
+Understand what's behind it.
 
-Here are some ideas to get you started:
+We unpack complex technology into simple,
+practical explanations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Topics
+
+☕ Java
+🌱 Spring Boot
+🔗 Microservices
+📨 Kafka
+🐳 Docker
+☸️ Kubernetes
+🤖 AI & Agentic AI
+🔎 RAG & MCP
+🏗️ System Design
+
+## Connect
+
+🎬 YouTube → @ByteUnpacked
